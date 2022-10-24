@@ -2,7 +2,6 @@
 ._*
 *.o
 *.elf
-*.hex
 *.exe
 /*.xcodeproj/project.xcworkspace/xcuserdata
 examples/*/*/Makefile*
@@ -19,4 +18,3 @@ examples/drivertest/commandline/runtest
 examples/hid-data/commandline/hidtool
 examples/usbtool/usbtool
 tests/sizes.txt
-tests/usbdrv
